@@ -12,7 +12,7 @@
 Este é apenas um projeto para meus usos pessoais, você está bem vindo a usar parte do codigo caso o convenha
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Verifique se você tem o `Zenity, Git, Flatpak e permissão superusuario`
+* Verifique se você tem o `Git, CTK, Pillow, Flatpak e permissão superusuario`
 
 ## 🚀 Baixando o script
 
