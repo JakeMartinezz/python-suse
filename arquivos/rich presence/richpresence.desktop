@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Richpresence
+Comment=so isso msm
+Exec=bash -c "sleep 30 && /home/$USER/.config/autostart/Richpresence.AppImage"
+Type=Application
+Terminal=false
+Hidden=false

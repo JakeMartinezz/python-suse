@@ -1,0 +1,15 @@
+game:
+  exe: /home/jake/Downloads/Sons.of.the.Forest.Patch.7.Hotfix.1/game/SonsOfTheForest.exe
+  prefix: /mnt/discos/Jogos/Prefixos/forest
+system:
+  env:
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /mnt/discos/Jogos/Prefixos/forest
+    __GL_THREADED_OPTIMIZATIONS: '1'
+    mesa_glthread: 'true'
+  locale: ''
+wine:
+  battleye: false
+  eac: false
+  fsr: true
+  version: lutris-GE-Proton8-21-x86_64
