@@ -19,7 +19,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para baixar o script, siga estas etapas:
 
 ```
-git clone https://github.com/Jakedystopia/python-suse.git
+git clone https://github.com/JakeMartinezz/python-suse.git
 ```
 ## ☕ Usando o script
 
