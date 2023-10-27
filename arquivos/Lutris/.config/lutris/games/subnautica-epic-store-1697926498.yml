@@ -1,7 +1,7 @@
 game:
   arch: win64
   args: -opengl -SkipBuildPatchPrereq
-  exe: drive_c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
+  exe: /mnt/discos/Jogos/Prefixos/subnautica/drive_c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
   prefix: /mnt/discos/Jogos/Prefixos/subnautica
 game_slug: subnautica
 name: Subnautica

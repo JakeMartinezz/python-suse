@@ -1,4 +1,5 @@
 system:
   game_path: /home/jake/Discos/Utilitario/Prefixos
+  locale: ''
 wine:
-  version: lutris-GE-Proton7-43-x86_64
+  version: lutris-GE-Proton8-21-x86_64
