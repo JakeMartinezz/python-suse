@@ -1,0 +1,5 @@
+game:
+  exe: /mnt/discos/Jogos/Pirata/Fable III/FableLauncher.exe
+  prefix: /mnt/discos/Jogos/Prefixos/Fable_III
+system: {}
+wine: {}

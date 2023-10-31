@@ -1,6 +1,6 @@
 game:
   arch: win64
-  exe: /mnt/discos/Jogos/Prefixos/warframe/drive_c/users/jake/AppData/Local/Warframe/Downloaded/Public/Tools/Launcher.exe
+  exe: drive_c/users/jake/AppData/Local/Warframe/Downloaded/Public/Tools/Launcher.exe
   prefix: /mnt/discos/Jogos/Prefixos/warframe
 game_slug: warframe
 name: Warframe

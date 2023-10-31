@@ -1,0 +1,13 @@
+game:
+  args: -nostartupmovies %command%
+  exe: /mnt/discos/Jogos/Pirata/Fable Anniversary/Binaries/Win32/Fable Anniversary.exe
+  prefix: /mnt/discos/Jogos/Prefixos/fable_anniversary
+system:
+  locale: ''
+wine:
+  battleye: false
+  eac: false
+  esync: true
+  fsr: false
+  fsync: true
+  version: lutris-GE-Proton8-21-x86_64
