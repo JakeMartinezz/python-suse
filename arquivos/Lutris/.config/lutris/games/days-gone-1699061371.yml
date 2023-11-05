@@ -1,0 +1,18 @@
+game:
+  args: ''
+  exe: /mnt/discos/Jogos/Pirata/Days Gone/BendGame/Binaries/Win64/DaysGone.exe
+  prefix: /mnt/discos/Jogos/Prefixos/Days_Gone
+system:
+  env:
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /mnt/discos/Jogos/Prefixos/Days_Gone
+    __GL_THREADED_OPTIMIZATIONS: '1'
+    mesa_glthread: 'true'
+  gamescope: false
+  locale: ''
+  resolution: 'off'
+wine:
+  battleye: false
+  eac: false
+  fsr: false
+  version: lutris-GE-Proton8-22-x86_64

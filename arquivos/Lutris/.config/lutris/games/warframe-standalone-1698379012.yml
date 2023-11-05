@@ -1,5 +1,6 @@
 game:
   arch: win64
+  args: '%command%'
   exe: drive_c/users/jake/AppData/Local/Warframe/Downloaded/Public/Tools/Launcher.exe
   prefix: /mnt/discos/Jogos/Prefixos/warframe
 game_slug: warframe
@@ -52,8 +53,11 @@ system:
     __GL_SHADER_DISK_CACHE_PATH: /mnt/discos/Jogos/Prefixos/warframe
     __GL_THREADED_OPTIMIZATIONS: '1'
     mesa_glthread: 'true'
+  gamescope: false
+  locale: ''
   pulse_latency: true
 variables: {}
 version: Standalone
-wine: {}
+wine:
+  version: lutris-GE-Proton8-22-x86_64
 year: 2013

@@ -10,4 +10,4 @@ wine:
   esync: true
   fsr: false
   fsync: true
-  version: lutris-GE-Proton8-21-x86_64
+  version: lutris-GE-Proton8-22-x86_64

@@ -10,5 +10,5 @@ wine:
   dxvk_version: dxvk-async-2.0
   eac: false
   fsr: false
-  version: lutris-GE-Proton8-21-x86_64
+  version: lutris-GE-Proton8-22-x86_64
   vkd3d_version: vkd3d-proton-2.10
